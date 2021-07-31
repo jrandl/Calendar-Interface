@@ -1,4 +1,3 @@
-![calender1](https://user-images.githubusercontent.com/69489368/127722427-6e81b0a9-b156-4330-8624-44aed35fea06.png)
 # Calender-Interface
 Calender Interface is a GUI application that utilizes JavaFX.
 
@@ -11,3 +10,5 @@ Countdown Feature: the user can see the countdown for selected special events
 Add Event Button: Add a new event to the calender
   
 Credits: Josiah Randleman, Devin Amos  
+
+![calender1](https://user-images.githubusercontent.com/69489368/127722427-6e81b0a9-b156-4330-8624-44aed35fea06.png)
